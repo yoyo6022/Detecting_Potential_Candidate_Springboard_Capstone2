@@ -16,6 +16,7 @@ The datasets are sourced from https://www.kaggle.com/aswathrao/hr-analysis and c
 - train.csv and test.csv are identical except there’s no outcome column in test.csv.  
 
 ### Reports
-1. Jupyternotebook
-2. Capstone Project II Final Report
-3. Capstone Project II Final Presentation
+1. Capstone Project II Project Proposal
+2. Jupyternotebook
+3. Capstone Project II Final Report
+4. Capstone Project II Final Presentation
