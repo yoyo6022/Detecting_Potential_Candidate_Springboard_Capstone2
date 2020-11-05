@@ -1,6 +1,6 @@
 # Detecting Potential Candidates Who are Looking for New Job
 Yang Liu Kunz
-Springboard Data Science Career Track, June 2020 cohort
+<br/>Springboard Data Science Career Track, June 2020 cohort
 
 # Capstone Project II
 ### Problem Statement: 
