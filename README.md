@@ -5,7 +5,7 @@ Yang Liu Kunz
 
 # Capstone Project II
 ### Problem Statement: 
-How can a training institute expand their business to manpower recruitment by using the current credential/demographics/experience related data to predict the probability of an enrollee to look for a job change
+How can a training institute expand their business to manpower recruitment by using the current credential/demographics/experience related data to predict the probability of an enrollee to look for a new job.
 
 ### Background:
 Company XYZ is a training institute which conducts training for analytics/ data science. They want to expand their business to manpower recruitment (data science only) by connecting their enrollees with their clients who are looking to hire employees working in the same domain.  Before that, they want to know among the large number of signups, which of these candidates are looking for a new employment. To understand the factors that lead the enrollees to look for a job change, Company XYZ wants to build a model based on the current credentials/demographic/experience data they collected from the enrollee to predict the probability of them to look for a new job.
