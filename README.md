@@ -1,5 +1,5 @@
 ![cover_photo](./src/cover_photo.png)
-# Detecting Potential Candidates Who are Looking for a New Job
+# Detecting Potential Candidates Who are Looking for New Job
 Yang Liu Kunz
 <br/>Springboard Data Science Career Track, June 2020 cohort
 
