@@ -20,7 +20,7 @@ The datasets are sourced from https://www.kaggle.com/aswathrao/hr-analysis and c
 - To explore and analyze enrollee data for XYZ training institute 
 - To identify the key features that lead the enrollee to look for new employment.
 - To develop machine learning models that predict the probability of enrollee looking for a new job
-- To identify the final model that captures the most target enrollees within the top 20% of the test dataset ordered by their predicted probability 
+- To identify the final model that captures the most target enrollees within the top 20%, top 50% of the test dataset ordered by their prediction scores (in descending order)
 
 
 ### Reports
