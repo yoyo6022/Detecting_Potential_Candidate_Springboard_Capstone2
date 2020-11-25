@@ -15,10 +15,10 @@ The dataset are sourced from https://www.kaggle.com/aswathrao/hr-analysis
 The dataset train.csv used in this project, was collected on August 12, 2020. It consists of 18,359 rows and 14 columns, 4 of them are numerical columns and 10 of them are categorical columns. Each row contains credentials/demographic/experience data for each unique enrollee. 
 
 ### Objective:
-- To explore and analyze enrollee data for XYZ training institute 
-- To identify the key features that lead the enrollee to look for new employment.
-- To develop machine learning models that predict the probability of enrollee looking for a new job
-- To identify the final model that captures the most target enrollees within the top 20%, top 50% of the test dataset ordered by their prediction scores (in descending order)
+- Explore and analyze enrollee data for the XYZ training institute 
+- Identify the key features that lead enrollees to look for new employment
+- Develop machine learning models that predict the probability of enrollees looking for new jobs
+- Identify the final model that captures the most target enrollees within the top 20% and top 50% of the test dataset in descending order by their prediction scores
 
 
 ### Reports
