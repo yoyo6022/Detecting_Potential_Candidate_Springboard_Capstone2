@@ -23,6 +23,6 @@ The dataset train.csv used in this project, was collected on August 12, 2020. It
 
 ### Reports
 1. Capstone Project II Project Proposal
-2. Jupyternotebook
+2. Jupyternotebook : https://github.com/yoyo6022/Detecting_Potential_Candidate_Springboard_Capstone2/tree/master/notebooks
 3. Capstone Project II Final Report : https://github.com/yoyo6022/Detecting_Potential_Candidate_Springboard_Capstone2/blob/master/reports/Capstone2%20-%20Final%20Report.pdf
 4. Capstone Project II Final Presentation : https://github.com/yoyo6022/Detecting_Potential_Candidate_Springboard_Capstone2/blob/master/reports/Capstone2_Presentation.pdf
