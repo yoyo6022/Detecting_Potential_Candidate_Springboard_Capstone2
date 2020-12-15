@@ -12,7 +12,7 @@ Company XYZ is a training institute which conducts training for analytics/data s
 
 ### Data Source:
 The dataset are sourced from https://www.kaggle.com/aswathrao/hr-analysis.
-The dataset train.csv used in this project, was collected on August 12, 2020. It consists of 18,359 rows and 14 columns, 4 of them are numerical columns and 10 of them are categorical columns. Each row contains credentials/demographic/experience data for each unique enrollee. 
+The dataset train.csv used in this project, was downloaded on August 12, 2020. It consists of 18,359 rows and 14 columns, 4 of them are numerical columns and 10 of them are categorical columns. Each row contains credentials/demographic/experience data for each unique enrollee. 
 
 ### Objective:
 - Explore and analyze enrollee data for the XYZ training institute 
